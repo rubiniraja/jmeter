@@ -1,9 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T08:37:16.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.2" etag="3-pVIK_brq5NAqm8it8C" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T09:17:45.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JfNpgckzOfYwQkm2xJlA" version="23.1.2" type="github">
   <diagram name="Page-1" id="Anq3Ur8Cs3t_4ZaljOo4">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Analysis_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="78.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="u7_1XuYHlIV8k6lAkHGV-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="70" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="u7_1XuYHlIV8k6lAkHGV-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Move_Stack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="345" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-17" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="1">
+          <mxGeometry x="646" y="199" width="26.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-20" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="1">
+          <mxGeometry x="625" y="220" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="572" y="225" as="targetPoint" />
+            <mxPoint x="617.0135937047637" y="224.94750983630684" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-21" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="179" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121" y="225" as="targetPoint" />
+            <mxPoint x="308.25" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="257" as="targetPoint" />
+            <mxPoint x="480" y="352" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-24" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Search.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="355" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="158.75" y="379.5" as="sourcePoint" />
+            <mxPoint x="250" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-32" value="User queries the AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-33" value="Embedding is generated for the user text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-34" value="Vector embeddings pulled from the vector Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="233" y="430" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-40" value="Searches the relevant text from the DB and optimized prompt sent to LLM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355.75" y="225" as="targetPoint" />
+            <mxPoint x="409" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-42" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/input_output_filter.svg;" vertex="1" parent="1">
+          <mxGeometry x="313.25" y="200" width="33.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-43" value="LLM Generates output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-44" value="Chunks of documents trains the LLM&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="212" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="u7_1XuYHlIV8k6lAkHGV-45" value="Response content filtered to get desired output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283" y="254" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
